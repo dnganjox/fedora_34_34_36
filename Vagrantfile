@@ -8,7 +8,7 @@ end
 
 
   # Every Vagrant development environment requires a box. You can search for
-  # boxes at https://vagrantcloud.com/search.
+  # boxes at https://vagrantcloud.com/search..
   #config.vm.box = "generic/fedora34"
 
 
