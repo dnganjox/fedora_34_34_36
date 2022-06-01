@@ -11,7 +11,7 @@
         ],
   
         "vm_name": "{{ user `vm_name` }}",
-        "output_directory": "{{ user `build_directory` }}/packer-{{ user `vm_name` }}-vmware",
+        "output_directory": "{{ user `build_directory` }}/packer-{{ user `vm_name` }}-virtualbox",
   
         "cpus": "{{ user `cpus` }}",
         "memory": "{{ user `memory` }}",
